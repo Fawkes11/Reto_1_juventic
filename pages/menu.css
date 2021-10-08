@@ -46,7 +46,19 @@ footer{
     color: rgba(113, 185, 112, 0.8);
 }
 
-.producto p{
+
+.content-menu img {
+    border-radius: 2%;
+}
+
+.producto .content-menu {
     background-color: #f39c27;
     margin-bottom: 10px;
+    border-radius: 2%;
 }
+
+#cargando{
+    display: none;
+}
+
+
